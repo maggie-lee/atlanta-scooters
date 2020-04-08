@@ -1,5 +1,7 @@
 Documentation of scooter-sharing APIs in Atlanta.
 
+UPDATE 4/8/20 - Most scooter companies have left Atlanta.  🤷‍♀️
+
 Atlanta is struggling with how to regulate scooters.
  City ordinance requires the publication of scooter data [via an API](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIICOORENOR_CH150TRVE_ARTXSHDOMODE_S150-406DASH
 ).
